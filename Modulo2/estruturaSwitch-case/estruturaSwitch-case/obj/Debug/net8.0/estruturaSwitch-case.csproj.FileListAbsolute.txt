@@ -1,0 +1,14 @@
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\estruturaSwitch-case\estruturaSwitch-case\bin\Debug\net8.0\estruturaSwitch-case.exe
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\estruturaSwitch-case\estruturaSwitch-case\bin\Debug\net8.0\estruturaSwitch-case.deps.json
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\estruturaSwitch-case\estruturaSwitch-case\bin\Debug\net8.0\estruturaSwitch-case.runtimeconfig.json
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\estruturaSwitch-case\estruturaSwitch-case\bin\Debug\net8.0\estruturaSwitch-case.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\estruturaSwitch-case\estruturaSwitch-case\bin\Debug\net8.0\estruturaSwitch-case.pdb
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\estruturaSwitch-case\estruturaSwitch-case\obj\Debug\net8.0\estruturaSwitch-case.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\estruturaSwitch-case\estruturaSwitch-case\obj\Debug\net8.0\estruturaSwitch-case.AssemblyInfoInputs.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\estruturaSwitch-case\estruturaSwitch-case\obj\Debug\net8.0\estruturaSwitch-case.AssemblyInfo.cs
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\estruturaSwitch-case\estruturaSwitch-case\obj\Debug\net8.0\estruturaSwitch-case.csproj.CoreCompileInputs.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\estruturaSwitch-case\estruturaSwitch-case\obj\Debug\net8.0\estruturaSwitch-case.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\estruturaSwitch-case\estruturaSwitch-case\obj\Debug\net8.0\refint\estruturaSwitch-case.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\estruturaSwitch-case\estruturaSwitch-case\obj\Debug\net8.0\estruturaSwitch-case.pdb
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\estruturaSwitch-case\estruturaSwitch-case\obj\Debug\net8.0\estruturaSwitch-case.genruntimeconfig.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\estruturaSwitch-case\estruturaSwitch-case\obj\Debug\net8.0\ref\estruturaSwitch-case.dll

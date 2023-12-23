@@ -1,0 +1,14 @@
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\ExercicioResolvido2\ExercicioResolvido2\obj\Debug\net8.0\ExercicioResolvido2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\ExercicioResolvido2\ExercicioResolvido2\obj\Debug\net8.0\ExercicioResolvido2.AssemblyInfoInputs.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\ExercicioResolvido2\ExercicioResolvido2\obj\Debug\net8.0\ExercicioResolvido2.AssemblyInfo.cs
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\ExercicioResolvido2\ExercicioResolvido2\obj\Debug\net8.0\ExercicioResolvido2.csproj.CoreCompileInputs.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\ExercicioResolvido2\ExercicioResolvido2\bin\Debug\net8.0\ExercicioResolvido2.exe
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\ExercicioResolvido2\ExercicioResolvido2\bin\Debug\net8.0\ExercicioResolvido2.deps.json
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\ExercicioResolvido2\ExercicioResolvido2\bin\Debug\net8.0\ExercicioResolvido2.runtimeconfig.json
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\ExercicioResolvido2\ExercicioResolvido2\bin\Debug\net8.0\ExercicioResolvido2.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\ExercicioResolvido2\ExercicioResolvido2\bin\Debug\net8.0\ExercicioResolvido2.pdb
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\ExercicioResolvido2\ExercicioResolvido2\obj\Debug\net8.0\ExercicioResolvido2.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\ExercicioResolvido2\ExercicioResolvido2\obj\Debug\net8.0\refint\ExercicioResolvido2.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\ExercicioResolvido2\ExercicioResolvido2\obj\Debug\net8.0\ExercicioResolvido2.pdb
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\ExercicioResolvido2\ExercicioResolvido2\obj\Debug\net8.0\ExercicioResolvido2.genruntimeconfig.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\ExercicioResolvido2\ExercicioResolvido2\obj\Debug\net8.0\ref\ExercicioResolvido2.dll

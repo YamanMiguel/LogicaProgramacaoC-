@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exercicio4_Conversao_Tempo/1.0.0": {
+        "runtime": {
+          "Exercicio4_Conversao_Tempo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio4_Conversao_Tempo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

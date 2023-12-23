@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EstruturaRepetitiva_FacaEnquanto
+build_property.ProjectDir = D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção5_Estruturas_repetitivas\EstruturaRepetitiva_FacaEnquanto\EstruturaRepetitiva_FacaEnquanto\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

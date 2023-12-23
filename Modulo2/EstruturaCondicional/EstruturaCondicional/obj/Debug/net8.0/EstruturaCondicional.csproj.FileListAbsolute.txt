@@ -1,0 +1,14 @@
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\EstruturaCondicional\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.exe
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\EstruturaCondicional\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.deps.json
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\EstruturaCondicional\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.runtimeconfig.json
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\EstruturaCondicional\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\EstruturaCondicional\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.pdb
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.AssemblyInfoInputs.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.AssemblyInfo.cs
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.csproj.CoreCompileInputs.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\refint\EstruturaCondicional.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.pdb
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.genruntimeconfig.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula Seção4\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\ref\EstruturaCondicional.dll

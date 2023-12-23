@@ -1,0 +1,14 @@
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioResolvido\Exercicio3_Idade_Media\Exercicio3_Idade_Media\bin\Debug\net8.0\Exercicio3_Idade_Media.exe
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioResolvido\Exercicio3_Idade_Media\Exercicio3_Idade_Media\bin\Debug\net8.0\Exercicio3_Idade_Media.deps.json
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioResolvido\Exercicio3_Idade_Media\Exercicio3_Idade_Media\bin\Debug\net8.0\Exercicio3_Idade_Media.runtimeconfig.json
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioResolvido\Exercicio3_Idade_Media\Exercicio3_Idade_Media\bin\Debug\net8.0\Exercicio3_Idade_Media.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioResolvido\Exercicio3_Idade_Media\Exercicio3_Idade_Media\bin\Debug\net8.0\Exercicio3_Idade_Media.pdb
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioResolvido\Exercicio3_Idade_Media\Exercicio3_Idade_Media\obj\Debug\net8.0\Exercicio3_Idade_Media.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioResolvido\Exercicio3_Idade_Media\Exercicio3_Idade_Media\obj\Debug\net8.0\Exercicio3_Idade_Media.AssemblyInfoInputs.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioResolvido\Exercicio3_Idade_Media\Exercicio3_Idade_Media\obj\Debug\net8.0\Exercicio3_Idade_Media.AssemblyInfo.cs
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioResolvido\Exercicio3_Idade_Media\Exercicio3_Idade_Media\obj\Debug\net8.0\Exercicio3_Idade_Media.csproj.CoreCompileInputs.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioResolvido\Exercicio3_Idade_Media\Exercicio3_Idade_Media\obj\Debug\net8.0\Exercicio3_Idade_Media.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioResolvido\Exercicio3_Idade_Media\Exercicio3_Idade_Media\obj\Debug\net8.0\refint\Exercicio3_Idade_Media.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioResolvido\Exercicio3_Idade_Media\Exercicio3_Idade_Media\obj\Debug\net8.0\Exercicio3_Idade_Media.pdb
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioResolvido\Exercicio3_Idade_Media\Exercicio3_Idade_Media\obj\Debug\net8.0\Exercicio3_Idade_Media.genruntimeconfig.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioResolvido\Exercicio3_Idade_Media\Exercicio3_Idade_Media\obj\Debug\net8.0\ref\Exercicio3_Idade_Media.dll

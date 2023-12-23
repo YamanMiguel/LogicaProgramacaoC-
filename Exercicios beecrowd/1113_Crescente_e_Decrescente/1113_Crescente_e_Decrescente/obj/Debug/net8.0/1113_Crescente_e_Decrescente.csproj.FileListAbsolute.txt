@@ -1,0 +1,14 @@
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1113_Crescente_e_Decrescente\1113_Crescente_e_Decrescente\bin\Debug\net8.0\1113_Crescente_e_Decrescente.exe
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1113_Crescente_e_Decrescente\1113_Crescente_e_Decrescente\bin\Debug\net8.0\1113_Crescente_e_Decrescente.deps.json
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1113_Crescente_e_Decrescente\1113_Crescente_e_Decrescente\bin\Debug\net8.0\1113_Crescente_e_Decrescente.runtimeconfig.json
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1113_Crescente_e_Decrescente\1113_Crescente_e_Decrescente\bin\Debug\net8.0\1113_Crescente_e_Decrescente.dll
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1113_Crescente_e_Decrescente\1113_Crescente_e_Decrescente\bin\Debug\net8.0\1113_Crescente_e_Decrescente.pdb
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1113_Crescente_e_Decrescente\1113_Crescente_e_Decrescente\obj\Debug\net8.0\1113_Crescente_e_Decrescente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1113_Crescente_e_Decrescente\1113_Crescente_e_Decrescente\obj\Debug\net8.0\1113_Crescente_e_Decrescente.AssemblyInfoInputs.cache
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1113_Crescente_e_Decrescente\1113_Crescente_e_Decrescente\obj\Debug\net8.0\1113_Crescente_e_Decrescente.AssemblyInfo.cs
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1113_Crescente_e_Decrescente\1113_Crescente_e_Decrescente\obj\Debug\net8.0\1113_Crescente_e_Decrescente.csproj.CoreCompileInputs.cache
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1113_Crescente_e_Decrescente\1113_Crescente_e_Decrescente\obj\Debug\net8.0\1113_Crescente_e_Decrescente.dll
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1113_Crescente_e_Decrescente\1113_Crescente_e_Decrescente\obj\Debug\net8.0\refint\1113_Crescente_e_Decrescente.dll
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1113_Crescente_e_Decrescente\1113_Crescente_e_Decrescente\obj\Debug\net8.0\1113_Crescente_e_Decrescente.pdb
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1113_Crescente_e_Decrescente\1113_Crescente_e_Decrescente\obj\Debug\net8.0\1113_Crescente_e_Decrescente.genruntimeconfig.cache
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1113_Crescente_e_Decrescente\1113_Crescente_e_Decrescente\obj\Debug\net8.0\ref\1113_Crescente_e_Decrescente.dll

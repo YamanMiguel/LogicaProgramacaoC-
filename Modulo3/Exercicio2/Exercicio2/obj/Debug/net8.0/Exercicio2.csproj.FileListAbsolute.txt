@@ -1,0 +1,14 @@
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção4_Estruturas_repetitivas\Exercicio2\Exercicio2\bin\Debug\net8.0\Exercicio2.exe
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção4_Estruturas_repetitivas\Exercicio2\Exercicio2\bin\Debug\net8.0\Exercicio2.deps.json
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção4_Estruturas_repetitivas\Exercicio2\Exercicio2\bin\Debug\net8.0\Exercicio2.runtimeconfig.json
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção4_Estruturas_repetitivas\Exercicio2\Exercicio2\bin\Debug\net8.0\Exercicio2.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção4_Estruturas_repetitivas\Exercicio2\Exercicio2\bin\Debug\net8.0\Exercicio2.pdb
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção4_Estruturas_repetitivas\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção4_Estruturas_repetitivas\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.AssemblyInfoInputs.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção4_Estruturas_repetitivas\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.AssemblyInfo.cs
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção4_Estruturas_repetitivas\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.csproj.CoreCompileInputs.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção4_Estruturas_repetitivas\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção4_Estruturas_repetitivas\Exercicio2\Exercicio2\obj\Debug\net8.0\refint\Exercicio2.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção4_Estruturas_repetitivas\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.pdb
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção4_Estruturas_repetitivas\Exercicio2\Exercicio2\obj\Debug\net8.0\Exercicio2.genruntimeconfig.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção4_Estruturas_repetitivas\Exercicio2\Exercicio2\obj\Debug\net8.0\ref\Exercicio2.dll

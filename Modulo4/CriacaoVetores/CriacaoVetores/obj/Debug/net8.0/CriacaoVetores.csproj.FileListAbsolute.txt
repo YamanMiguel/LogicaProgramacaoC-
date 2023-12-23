@@ -1,0 +1,14 @@
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\CriacaoVetores\CriacaoVetores\bin\Debug\net8.0\CriacaoVetores.exe
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\CriacaoVetores\CriacaoVetores\bin\Debug\net8.0\CriacaoVetores.deps.json
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\CriacaoVetores\CriacaoVetores\bin\Debug\net8.0\CriacaoVetores.runtimeconfig.json
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\CriacaoVetores\CriacaoVetores\bin\Debug\net8.0\CriacaoVetores.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\CriacaoVetores\CriacaoVetores\bin\Debug\net8.0\CriacaoVetores.pdb
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\CriacaoVetores\CriacaoVetores\obj\Debug\net8.0\CriacaoVetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\CriacaoVetores\CriacaoVetores\obj\Debug\net8.0\CriacaoVetores.AssemblyInfoInputs.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\CriacaoVetores\CriacaoVetores\obj\Debug\net8.0\CriacaoVetores.AssemblyInfo.cs
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\CriacaoVetores\CriacaoVetores\obj\Debug\net8.0\CriacaoVetores.csproj.CoreCompileInputs.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\CriacaoVetores\CriacaoVetores\obj\Debug\net8.0\CriacaoVetores.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\CriacaoVetores\CriacaoVetores\obj\Debug\net8.0\refint\CriacaoVetores.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\CriacaoVetores\CriacaoVetores\obj\Debug\net8.0\CriacaoVetores.pdb
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\CriacaoVetores\CriacaoVetores\obj\Debug\net8.0\CriacaoVetores.genruntimeconfig.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Seção6_Vetores\CriacaoVetores\CriacaoVetores\obj\Debug\net8.0\ref\CriacaoVetores.dll

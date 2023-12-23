@@ -1,0 +1,14 @@
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioAreaTerrreno\ExercicioAreaTerrreno\bin\Debug\net8.0\ExercicioAreaTerrreno.exe
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioAreaTerrreno\ExercicioAreaTerrreno\bin\Debug\net8.0\ExercicioAreaTerrreno.deps.json
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioAreaTerrreno\ExercicioAreaTerrreno\bin\Debug\net8.0\ExercicioAreaTerrreno.runtimeconfig.json
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioAreaTerrreno\ExercicioAreaTerrreno\bin\Debug\net8.0\ExercicioAreaTerrreno.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioAreaTerrreno\ExercicioAreaTerrreno\bin\Debug\net8.0\ExercicioAreaTerrreno.pdb
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioAreaTerrreno\ExercicioAreaTerrreno\obj\Debug\net8.0\ExercicioAreaTerrreno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioAreaTerrreno\ExercicioAreaTerrreno\obj\Debug\net8.0\ExercicioAreaTerrreno.AssemblyInfoInputs.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioAreaTerrreno\ExercicioAreaTerrreno\obj\Debug\net8.0\ExercicioAreaTerrreno.AssemblyInfo.cs
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioAreaTerrreno\ExercicioAreaTerrreno\obj\Debug\net8.0\ExercicioAreaTerrreno.csproj.CoreCompileInputs.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioAreaTerrreno\ExercicioAreaTerrreno\obj\Debug\net8.0\ExercicioAreaTerrreno.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioAreaTerrreno\ExercicioAreaTerrreno\obj\Debug\net8.0\refint\ExercicioAreaTerrreno.dll
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioAreaTerrreno\ExercicioAreaTerrreno\obj\Debug\net8.0\ExercicioAreaTerrreno.pdb
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioAreaTerrreno\ExercicioAreaTerrreno\obj\Debug\net8.0\ExercicioAreaTerrreno.genruntimeconfig.cache
+D:\Projetos\Aula_Logica_Programação_C#\PrimeiroProjeto\Aula\ExercicioAreaTerrreno\ExercicioAreaTerrreno\obj\Debug\net8.0\ref\ExercicioAreaTerrreno.dll

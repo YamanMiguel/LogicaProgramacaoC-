@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exercicio2_Area_Perimetro_Diagonal/1.0.0": {
+        "runtime": {
+          "Exercicio2_Area_Perimetro_Diagonal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio2_Area_Perimetro_Diagonal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

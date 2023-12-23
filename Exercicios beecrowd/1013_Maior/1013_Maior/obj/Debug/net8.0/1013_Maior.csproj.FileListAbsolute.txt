@@ -1,0 +1,14 @@
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1013_Maior\1013_Maior\bin\Debug\net8.0\1013_Maior.exe
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1013_Maior\1013_Maior\bin\Debug\net8.0\1013_Maior.deps.json
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1013_Maior\1013_Maior\bin\Debug\net8.0\1013_Maior.runtimeconfig.json
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1013_Maior\1013_Maior\bin\Debug\net8.0\1013_Maior.dll
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1013_Maior\1013_Maior\bin\Debug\net8.0\1013_Maior.pdb
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1013_Maior\1013_Maior\obj\Debug\net8.0\1013_Maior.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1013_Maior\1013_Maior\obj\Debug\net8.0\1013_Maior.AssemblyInfoInputs.cache
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1013_Maior\1013_Maior\obj\Debug\net8.0\1013_Maior.AssemblyInfo.cs
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1013_Maior\1013_Maior\obj\Debug\net8.0\1013_Maior.csproj.CoreCompileInputs.cache
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1013_Maior\1013_Maior\obj\Debug\net8.0\1013_Maior.dll
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1013_Maior\1013_Maior\obj\Debug\net8.0\refint\1013_Maior.dll
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1013_Maior\1013_Maior\obj\Debug\net8.0\1013_Maior.pdb
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1013_Maior\1013_Maior\obj\Debug\net8.0\1013_Maior.genruntimeconfig.cache
+D:\Projetos\LogicaProgramacaoC#\Exercicios beecrowd\1013_Maior\1013_Maior\obj\Debug\net8.0\ref\1013_Maior.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExercicioResolvido1_Nota_Aluno/1.0.0": {
+        "runtime": {
+          "ExercicioResolvido1_Nota_Aluno.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioResolvido1_Nota_Aluno/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

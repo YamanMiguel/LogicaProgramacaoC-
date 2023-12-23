@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CriacaoVetores/1.0.0": {
+        "runtime": {
+          "CriacaoVetores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CriacaoVetores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

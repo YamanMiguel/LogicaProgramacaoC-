@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExercicioRresolvido2_Formula_Bhaskara/1.0.0": {
+        "runtime": {
+          "ExercicioRresolvido2_Formula_Bhaskara.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioRresolvido2_Formula_Bhaskara/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
